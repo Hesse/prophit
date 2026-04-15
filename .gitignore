@@ -1,0 +1,27 @@
+# prophit .gitignore
+
+# User config and reports — never commit personal data or API keys
+~/.prophit/
+.prophit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Shell history / temp
+*.log
+*.tmp
+/tmp/
+
+# API keys (belt and suspenders)
+.env
+.env.*
+*.key
+secrets.*
