@@ -48,10 +48,8 @@ Personas run **adaptively** — the orchestrator picks the most probing persona 
 Paste this into your Claude Code session:
 
 ```
-Install prophit: run git clone --depth 1 https://github.com/YOUR_USERNAME/prophit.git ~/.claude/skills/prophit and add a "prophit" section to CLAUDE.md that lists the available skill: /prophit — stress-test a trading or investment thesis through adversarial AI personas. Use /prophit whenever the user shares a thesis, trade idea, chart pattern, or market view they want challenged.
+Install prophit: run git clone --depth 1 https://github.com/hesse/prophit.git ~/.claude/skills/prophit and add a "prophit" section to CLAUDE.md that lists the available skill: /prophit — stress-test a trading or investment thesis through adversarial AI personas. Use /prophit whenever the user shares a thesis, trade idea, chart pattern, or market view they want challenged.
 ```
-
-> Replace `YOUR_USERNAME` with your GitHub username.
 
 ---
 
